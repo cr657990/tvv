@@ -1,0 +1,1055 @@
+﻿#EXTM3U
+#EXTINF:-1,TV Publica HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43308
+#EXTINF:-1,Telefe FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43312
+#EXTINF:-1 tvg-id="1358" tvg-name="El Trece BsAs" tvg-logo="https://i.paste.pics/d02b6b3b0cc50273b2bab778279779a3.png", El Trece | AR
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,El Nueve HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43317
+#EXTINF:-1,America TV HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43320
+
+
+#EXTINF:-1 tvg-id="250" tvg-name="Canal 9 Resistencia" tvg-logo="https://lh3.googleusercontent.com/-WMz7hrzKxR0/Xx4D9d8qm2I/AAAAAAAA3gs/EvkCEvSZ9FAmPtwA7Xx7j6KzsEvNndm3wCK8BGAsYHg/s0/2020-07-26.png", Canal 9 Resistencia | AR
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="13Max Telefe Corrientes.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="Undefined",Chaco TV (720p) [Not 24/7]
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-logo="https://i.imgur.com/oL8SMTL.png" group-title="Undefined",Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-logo="https://i.imgur.com/7PBkvRp.png" group-title="Undefined",Corrientes TV (CTV) (720p)
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+#EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Undefined",Telefe Internacional (720p) [Not 24/7]
+https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
+
+
+#EXTINF:-1,A24 FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43322
+#EXTINF:-1,Canal 26 HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43343
+#EXTINF:-1,C5N HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43344
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN Todo Noticias (1080p)
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1,Cronica HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123877
+#EXTINF:-1,La Nacion SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333108
+
+#EXTINF:-1,Encuentro HQ (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43339
+#EXTINF:-1,Volver SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43346
+#EXTINF:-1,Garage TV SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43357
+
+
+#EXTINF:-1,PPV: Starz West FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34517
+#EXTINF:-1,PPV: Starz Comedy FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34519
+#EXTINF:-1,PPV: Starz Encore Western FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34524
+#EXTINF:-1,PPV: Starz Encore Suspense HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34525
+#EXTINF:-1,PPV: Showtime West FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34531
+#EXTINF:-1,PPV: OuterMax FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34536
+#EXTINF:-1,PPV: MoviePlex FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34537
+#EXTINF:-1,PPV: HBO West FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34541
+
+
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123887
+#EXTINF:-1,TNT Sports HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34683
+#EXTINF:-1,TNT Sports FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34684
+
+#EXTINF:-1,Directv Sports HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123872
+#EXTINF:-1,Directv Sports 2 HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34612
+#EXTINF:-1,Directv Sports + HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123871
+#EXTINF:-1,Directv Sports + FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34616
+
+#EXTINF:-1,ESPN SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34659
+#EXTINF:-1,ESPN HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34660
+#EXTINF:-1,ESPN FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34661
+#EXTINF:-1,ESPN 2 SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34662
+#EXTINF:-1,ESPN 2 HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34663
+#EXTINF:-1,ESPN 2 FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34664
+#EXTINF:-1,ESPN 3 SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34665
+#EXTINF:-1,ESPN 3 HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34666
+#EXTINF:-1,ESPN 3 FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34667
+#EXTINF:-1,ESPN Extra SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312846
+#EXTINF:-1,ESPN Extra FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312844
+#EXTINF:-1,ESPN Premium SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312847
+#EXTINF:-1,ESPN Premium HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123874
+#EXTINF:-1,ESPN Premium FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34648
+
+#EXTINF:-1,Fox Sports SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34639
+#EXTINF:-1,Fox Sports HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34640
+#EXTINF:-1,Fox Sports FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34641
+#EXTINF:-1,Fox Sports 2 SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34642
+#EXTINF:-1,Fox Sports 2 HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34643
+#EXTINF:-1,Fox Sports 2 FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34644
+#EXTINF:-1,Fox Sports 3 SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34645
+#EXTINF:-1,Fox Sports 3 HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34646
+#EXTINF:-1,Fox Sports 3 FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34647
+
+#EXTINF:-1,Claro Sports SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34617
+#EXTINF:-1,Claro Sports FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34618
+
+#EXTINF:-1,TyC Sports  SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34685
+#EXTINF:-1,TyC Sports HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34686
+#EXTINF:-1,TyC Sports Internacional HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34688
+#EXTINF:-1,DeporTV HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34740
+#EXTINF:-1,DeporTV FHD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123873
+#EXTINF:-1,b31N Sports 7 HQ (AR)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34724
+
+#EXTINF:-1,Paka Paka HD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34795
+#EXTINF:-1,Discovery Kids FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34784
+#EXTINF:-1,Cartoon Network SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34754
+#EXTINF:-1,Cartoon Network FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34756
+#EXTINF:-1,Disney Channel SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313157
+#EXTINF:-1,Disney Channel FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313152
+#EXTINF:-1,Disney Channel HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302631
+#EXTINF:-1,Disney Channel SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34759
+#EXTINF:-1,Disney Channel FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34761
+#EXTINF:-1,Disney Junior SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313158
+#EXTINF:-1,Disney Junior HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302632
+#EXTINF:-1,Disney Junior SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34767
+#EXTINF:-1,Disney Junior FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312949
+#EXTINF:-1,Disney Junior FHD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34766
+#EXTINF:-1,Nickelodeon SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313163
+#EXTINF:-1,Nickelodeon FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313153
+#EXTINF:-1,Nickelodeon HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302710
+#EXTINF:-1,Nickelodeon SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34770
+#EXTINF:-1,Nickelodeon FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34772
+#EXTINF:-1,Nick JR SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313155
+#EXTINF:-1,Nick JR HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302712
+#EXTINF:-1,Nick JR SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34778
+#EXTINF:-1,Nick JR FHD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34779
+#EXTINF:-1,TeenNick SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313168
+#EXTINF:-1,TeenNick (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313028
+#EXTINF:-1,TeenNick FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34777
+#EXTINF:-1,Nick Music SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312756
+#EXTINF:-1,DreamWorks HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304507
+#EXTINF:-1,Baby TV SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313160
+#EXTINF:-1,Baby TV HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312755
+#EXTINF:-1,Baby First SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313169
+#EXTINF:-1,Baby First HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34792
+#EXTINF:-1,Bitme HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302617
+#EXTINF:-1,Cartoonito SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313154
+#EXTINF:-1,Cartoonito SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312753
+#EXTINF:-1,Cartoonito FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312751
+#EXTINF:-1,ETC TV SD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34798
+#EXTINF:-1,Tooncast  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313161
+#EXTINF:-1,Tooncast HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302735
+#EXTINF:-1,ZooMoo FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312760
+#EXTINF:-1,Lolly Kids  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313167
+
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="General",Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1,Telemundo HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313004
+#EXTINF:-1,Telemundo HQ (PR)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313024
+#EXTINF:-1,Telemundo Internacional HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302728
+#EXTINF:-1,Telemundo Internacional FHD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35088
+#EXTINF:-1,Telemundo Atlanta HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312999
+#EXTINF:-1,Telemundo Boston HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35089
+#EXTINF:-1,Telemundo Chicago HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35090
+#EXTINF:-1,Telemundo Colorado HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313001
+#EXTINF:-1,Telemundo Connecticut HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313002
+#EXTINF:-1,Telemundo Dallas 39 HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35091
+#EXTINF:-1,Telemundo Denver HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35092
+#EXTINF:-1,Telemundo East HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312994
+#EXTINF:-1,Telemundo East.HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312995
+#EXTINF:-1,Telemundo Fresno HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35093
+#EXTINF:-1,Telemundo Galveston HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313003
+#EXTINF:-1,Telemundo Kuan HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313005
+#EXTINF:-1,Telemundo Las Cruces HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313006
+#EXTINF:-1,Telemundo Las Vegas HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35096
+#EXTINF:-1,Telemundo Lincoln HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313007
+#EXTINF:-1,Telemundo Los Angeles 52 HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35097
+#EXTINF:-1,Telemundo Medford HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313008
+#EXTINF:-1,Telemundo Miami HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35098
+#EXTINF:-1,Telemundo Mount Laurel HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313009
+#EXTINF:-1,Telemundo New York HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35099
+#EXTINF:-1,Telemundo Oklahoma City HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313012
+#EXTINF:-1,Telemundo Omaha HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313013
+#EXTINF:-1,Telemundo Orlando HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313014
+#EXTINF:-1,Telemundo Philadelphia HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35100
+#EXTINF:-1,Telemundo Phoenix HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35101
+#EXTINF:-1,Telemundo Rio Grande HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313015
+#EXTINF:-1,Telemundo Sacramento HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313016
+#EXTINF:-1,Telemundo Salt Lake City HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313017
+#EXTINF:-1,Telemundo San Antonio HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313018
+#EXTINF:-1,Telemundo San Francisco HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35103
+#EXTINF:-1,Telemundo San Luis Obispo HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313019
+#EXTINF:-1,Telemundo Santa Fe HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313020
+#EXTINF:-1,Telemundo Tampa HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313021
+#EXTINF:-1,Telemundo Washington HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313023
+#EXTINF:-1,Telemundo West HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312996
+#EXTINF:-1,Telemundo West. HQ (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312997
+#EXTINF:-1,Univision (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312990
+#EXTINF:-1,Univision (PR)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312991
+#EXTINF:-1,Univision West (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312992
+#EXTINF:-1,Univision WEST FHD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35162
+#EXTINF:-1,Univision West. (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312993
+#EXTINF:-1,Univisión Int HD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312989
+#EXTINF:-1,Univisión Int SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312988
+#EXTINF:-1,Univision Atlanta HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35144
+#EXTINF:-1,Univision Austin HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312973
+#EXTINF:-1,Univision Chicago HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312974
+#EXTINF:-1,Univision Dallas HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312976
+#EXTINF:-1,Univision EAST HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35149
+#EXTINF:-1,Univision Handford HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312978
+#EXTINF:-1,Univision Houston HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35151
+#EXTINF:-1,Univision Los Angeles HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35152
+#EXTINF:-1,Univision Miami HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35153
+#EXTINF:-1,Univision Modesto HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312979
+#EXTINF:-1,Univision Network HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312980
+#EXTINF:-1,Univision Philadelphia HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312982
+#EXTINF:-1,Univision Phoenix HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312983
+#EXTINF:-1,Univision San Antonio HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312984
+#EXTINF:-1,Univision San Francisco HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312985
+#EXTINF:-1,Unimas Dallas HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35114
+#EXTINF:-1,Unimas Los Angeles HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35108
+#EXTINF:-1,Deutsche Welle (Deutsch +) SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313179
+#EXTINF:-1,Antena 3 SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313176
+#EXTINF:-1,Antena 3 HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302607
+#EXTINF:-1,Rai Italia SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313189
+#EXTINF:-1,Rai Italia HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35085
+#EXTINF:-1,Star TVE FHD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35169
+#EXTINF:-1,Telefe Internacional HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302726
+#EXTINF:-1,TV5 Monde SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35166
+#EXTINF:-1,TVE SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35167
+#EXTINF:-1,24 Horas SD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35170
+#EXTINF:-1,24 Horas FHD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/158787
+#EXTINF:-1,24 Horas Play HD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35172
+#EXTINF:-1,CNN HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302624
+#EXTINF:-1,CNN Internacional FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312879
+#EXTINF:-1,CNN Español SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312871
+#EXTINF:-1,CNN Español HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302691
+#EXTINF:-1,CNN Chile SD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123888
+#EXTINF:-1,CNN Chile FHD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35180
+#EXTINF:-1,BBC World News SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313177
+#EXTINF:-1,BBC World News HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35175
+#EXTINF:-1,Fox News HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302646
+#EXTINF:-1,Fox News SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313183
+#EXTINF:-1,France 24 SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313184
+#EXTINF:-1,France 24 FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35185
+#EXTINF:-1,Aljazeera HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35174
+#EXTINF:-1,Bloomberg HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35177
+#EXTINF:-1,Cable Noticias HD (CO)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35178
+#EXTINF:-1,RT en Español FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35191
+#EXTINF:-1,France 24 HD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333096
+#EXTINF:-1,CNN SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333107
+#EXTINF:-1,Pasiones SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35058
+#EXTINF:-1,Pasiones FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35060
+#EXTINF:-1,Univision TLNovelas SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313105
+#EXTINF:-1,Univision TLNovelas HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302732
+#EXTINF:-1,Univision TLnovelas HD (US)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312987
+#EXTINF:-1,TNT Novelas SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313074
+#EXTINF:-1,TNT Novelas FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312798
+#EXTINF:-1,A3 Series SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313175
+#EXTINF:-1,A3 Series HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302608
+#EXTINF:-1,Las Estrellas FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313173
+#EXTINF:-1,Las Estrellas HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302641
+#EXTINF:-1,Las Estrellas -1HRs HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304504
+#EXTINF:-1,Lifetime  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313102
+#EXTINF:-1,Lifetime HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302678
+#EXTINF:-1,Lifetime SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35038
+#EXTINF:-1,Lifetime FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312814
+#EXTINF:-1,Mas Chic  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313120
+#EXTINF:-1,Mas Chic SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35055
+#EXTINF:-1,Mas Chic FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35057
+#EXTINF:-1,Distrito Comedia HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302634
+#EXTINF:-1,E! Entertainment SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313171
+#EXTINF:-1,E! Entertainment FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313174
+#EXTINF:-1,E! Entertainment SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35040
+#EXTINF:-1,E! Entertainment HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302636
+#EXTINF:-1,E! Entertainment FHD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35041
+#EXTINF:-1,El Gourmet SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313180
+#EXTINF:-1,El Gourmet HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302661
+#EXTINF:-1,El Gourmet SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35045
+#EXTINF:-1,El Gourmet FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35047
+#EXTINF:-1,Hola TV SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313099
+#EXTINF:-1,Hola TV FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313172
+#EXTINF:-1,Hola TV SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35042
+#EXTINF:-1,Hola TV FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35044
+#EXTINF:-1,Food Network SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35048
+#EXTINF:-1,Food Network HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302644
+#EXTINF:-1,Food Network FHD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35049
+#EXTINF:-1,Glitz SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313186
+#EXTINF:-1,Glitz SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35052
+#EXTINF:-1,Unicable HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302738
+#EXTINF:-1,Sun Channel  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313121
+#EXTINF:-1,Sun Channel FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313046
+#EXTINF:-1,Tru TV SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313192
+#EXTINF:-1,Tru TV FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313136
+#EXTINF:-1,Tru TV HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302736
+#EXTINF:-1,Kanal D Drama SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313117
+#EXTINF:-1,Kanal D Drama  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313055
+#EXTINF:-1,National Geographic SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313140
+#EXTINF:-1,National Geographic FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313135
+#EXTINF:-1,National Geographic HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302706
+#EXTINF:-1,National Geographic SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34846
+#EXTINF:-1,National Geographic HD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34847
+#EXTINF:-1,National Geographic FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34848
+#EXTINF:-1,National Geographic FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312903
+#EXTINF:-1,Discovery Channel SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313129
+#EXTINF:-1,Discovery Channel FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313142
+#EXTINF:-1,Discovery Channel HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302627
+#EXTINF:-1,Discovery Channel SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34808
+#EXTINF:-1,Discovery Channel FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34810
+#EXTINF:-1,Discovery H&H SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313141
+#EXTINF:-1,Discovery H&H FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313128
+#EXTINF:-1,Discovery H&H HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302693
+#EXTINF:-1,Discovery H&H SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34814
+#EXTINF:-1,Discovery H&H FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34816
+#EXTINF:-1,Discovery H&H FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312916
+#EXTINF:-1,Discovery Theater SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313130
+#EXTINF:-1,Discovery Theater HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302626
+#EXTINF:-1,Discovery Theater FHD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34819
+#EXTINF:-1,Discovery Theater SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34818
+#EXTINF:-1,Discovery TLC FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313146
+#EXTINF:-1,Discovery TLC SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34822
+#EXTINF:-1,Discovery TLC FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34824
+#EXTINF:-1,Discovery TLC HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302730
+#EXTINF:-1,Discovery Turbo SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313138
+#EXTINF:-1,Discovery Turbo HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302629
+#EXTINF:-1,Discovery Turbo SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34825
+#EXTINF:-1,Discovery Turbo FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34826
+#EXTINF:-1,Discovery World FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313131
+#EXTINF:-1,Discovery World SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34827
+#EXTINF:-1,Discovery World HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302630
+#EXTINF:-1,Discovery World FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34828
+#EXTINF:-1,Discovery Science FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313147
+#EXTINF:-1,Discovery Science SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34817
+#EXTINF:-1,Discovery Science HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302628
+#EXTINF:-1,Discovery Science FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312807
+#EXTINF:-1,Discovery Science FHD (CO.) (E)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/46563
+#EXTINF:-1,Investigation Discovery SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313143
+#EXTINF:-1,Investigation Discovery FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313134
+#EXTINF:-1,Investigation Discovery HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302674
+#EXTINF:-1,Investigation Discovery SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34838
+#EXTINF:-1,Investigation Discovery FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34840
+#EXTINF:-1,Animal Planet SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313127
+#EXTINF:-1,Animal Planet FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313144
+#EXTINF:-1,Animal Planet HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302606
+#EXTINF:-1,Animal Planet SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34801
+#EXTINF:-1,Animal Planet FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34803
+#EXTINF:-1,Animal Planet FHD (CO) (E)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35195
+#EXTINF:-1,History Channel SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313145
+#EXTINF:-1,History Channel FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313133
+#EXTINF:-1,History Channel HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302673
+#EXTINF:-1,History Channel SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34831
+#EXTINF:-1,History Channel FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34833
+#EXTINF:-1,H2 SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313148
+#EXTINF:-1,H2 FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313132
+#EXTINF:-1,H2 HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302662
+#EXTINF:-1,H2 SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312817
+#EXTINF:-1,H2 FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312816
+#EXTINF:-1,H2 FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312909
+#EXTINF:-1,HGTV FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313149
+#EXTINF:-1,HGTV HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302672
+#EXTINF:-1,HGTV SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312820
+#EXTINF:-1,HGTV FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312818
+#EXTINF:-1,Outdoor HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302715
+#EXTINF:-1,Wobi SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34804
+#EXTINF:-1,Love Nature SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313139
+#EXTINF:-1,Love Nature FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313137
+#EXTINF:-1,A&E SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313107
+#EXTINF:-1,A&E  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313032
+#EXTINF:-1,A&E HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302612
+#EXTINF:-1,A&E SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34946
+#EXTINF:-1,A&E FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34948
+#EXTINF:-1,TNT  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313063
+#EXTINF:-1,TNT  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313047
+#EXTINF:-1,TNT HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302733
+#EXTINF:-1,TNT SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34957
+#EXTINF:-1,TNT FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34959
+#EXTINF:-1,TNT Series SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313077
+#EXTINF:-1,TNT Series  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313048
+#EXTINF:-1,TNT Series HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302734
+#EXTINF:-1,TNT Series SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34962
+#EXTINF:-1,TNT Series FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34964
+#EXTINF:-1,Warner Channel SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313067
+#EXTINF:-1,Warner Channel FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313050
+#EXTINF:-1,Warner Channel SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34920
+#EXTINF:-1,Warner Channel HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302746
+#EXTINF:-1,Warner Channel SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34922
+#EXTINF:-1,Warner Channel FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34923
+#EXTINF:-1,Universal Channel SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313068
+#EXTINF:-1,Universal Channel FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313049
+#EXTINF:-1,Universal Channel HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302739
+#EXTINF:-1,Universal Channel FHD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34955
+#EXTINF:-1,Universal Channel FHD (MX E)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35266
+#EXTINF:-1,Universal Channel SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34956
+#EXTINF:-1,Universal Channel FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312892
+#EXTINF:-1,Studio Universal  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313106
+#EXTINF:-1,Studio Universal FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313045
+#EXTINF:-1,Studio Universal SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34965
+#EXTINF:-1,Studio Universal HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302721
+#EXTINF:-1,Studio Universal FHD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34966
+#EXTINF:-1,A3 Series FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313057
+#EXTINF:-1,A3Series Int. SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312781
+#EXTINF:-1,A3Series Int. FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312779
+#EXTINF:-1,AMC  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313122
+#EXTINF:-1,AMC  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313033
+#EXTINF:-1,AMC SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34917
+#EXTINF:-1,AMC HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302605
+#EXTINF:-1,AMC FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34919
+#EXTINF:-1,AMC FHD (E)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35241
+#EXTINF:-1,AXN  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313073
+#EXTINF:-1,AXN  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313034
+#EXTINF:-1,AXN SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34941
+#EXTINF:-1,AXN FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312922
+#EXTINF:-1,AXN HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302611
+#EXTINF:-1,AXN FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34943
+#EXTINF:-1,AXN FHD (CO) (E)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35239
+#EXTINF:-1,Cine Latino SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34998
+#EXTINF:-1,Cine Canal HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302689
+#EXTINF:-1,Cinecanal  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313081
+#EXTINF:-1,Cinecanal  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313035
+#EXTINF:-1,Cinemax  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313036
+#EXTINF:-1,Cinecanal FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34991
+#EXTINF:-1,Cinecanal FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34994
+#EXTINF:-1,Cinecanal SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34992
+#EXTINF:-1,Cinecanal FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312920
+#EXTINF:-1,Cinecanal FHD (CO.) (E)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35235
+#EXTINF:-1,Cinemax  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313082
+#EXTINF:-1,Cinemax SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34997
+#EXTINF:-1,Cinemax FHD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34996
+#EXTINF:-1,Cinemax HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302623
+#EXTINF:-1,Clover Channel FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313054
+#EXTINF:-1,Comedy Central SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313195
+#EXTINF:-1,Comedy Central FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313170
+#EXTINF:-1,Comedy Central SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34951
+#EXTINF:-1,Comedy Central FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34953
+#EXTINF:-1,Comedy Central HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302692
+#EXTINF:-1,De Pelicula Plus SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35000
+#EXTINF:-1,De Pelicula HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302635
+#EXTINF:-1,De Pelicula SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313113
+#EXTINF:-1,De Pelicula FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312786
+#EXTINF:-1,DHE FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313037
+#EXTINF:-1,DHE SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35004
+#EXTINF:-1,DHE FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35006
+#EXTINF:-1,DHE FHD (E)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35245
+#EXTINF:-1,Eurochannel SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313181
+#EXTINF:-1,Eurochannel SD (LAT.)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/177211
+#EXTINF:-1,Europa Europa HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/177210
+#EXTINF:-1,Film & Art HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35002
+#EXTINF:-1,Film & Arts FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312789
+#EXTINF:-1,FX SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313079
+#EXTINF:-1,FX  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313038
+#EXTINF:-1,FX SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34975
+#EXTINF:-1,FX FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34976
+#EXTINF:-1,FX HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302655
+#EXTINF:-1,Golden SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313093
+#EXTINF:-1,Golden SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34985
+#EXTINF:-1,Golden  HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302658
+#EXTINF:-1,Golden Edge HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302657
+#EXTINF:-1,Golden Plus SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34987
+#EXTINF:-1,Golden Plus HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302659
+#EXTINF:-1,Golden Plus FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313039
+#EXTINF:-1,Golden Plus FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34989
+#EXTINF:-1,I-Sat SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313072
+#EXTINF:-1,I-Sat HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302676
+#EXTINF:-1,Paramount  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313104
+#EXTINF:-1,Multipremier SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35003
+#EXTINF:-1,Paramount  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313041
+#EXTINF:-1,Paramount Channel SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34982
+#EXTINF:-1,Paramount Channel HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302716
+#EXTINF:-1,Paramount Channel FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34984
+#EXTINF:-1,Sony Channel SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313069
+#EXTINF:-1,Sony Channel FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313043
+#EXTINF:-1,Sony Channel SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34936
+#EXTINF:-1,Sony Channel FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34938
+#EXTINF:-1,Sony Channel FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312899
+#EXTINF:-1,Sony Channel HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302718
+#EXTINF:-1,Sony Movies HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304509
+#EXTINF:-1,Space  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313044
+#EXTINF:-1,Space  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313070
+#EXTINF:-1,Space FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34971
+#EXTINF:-1,Space FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312898
+#EXTINF:-1,Space HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302719
+#EXTINF:-1,Space SD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34968
+#EXTINF:-1,Star Channel  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313066
+#EXTINF:-1,Star Channel FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313042
+#EXTINF:-1,Star Channel FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34928
+#EXTINF:-1,Star Channel FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312910
+#EXTINF:-1,Star Channel HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302645
+#EXTINF:-1,Star Channel SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34926
+#EXTINF:-1,Star TVE HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302720
+#EXTINF:-1,SyFy SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313076
+#EXTINF:-1,SyFy HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302722
+#EXTINF:-1,SyFy FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312930
+#EXTINF:-1,SyFy FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312795
+#EXTINF:-1,TCM  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313088
+#EXTINF:-1,TCM HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302724
+#EXTINF:-1,Golden Premier SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34910
+#EXTINF:-1,Golden Premier FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34912
+#EXTINF:-1,Golden Premier 2 HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302699
+#EXTINF:-1,Golden Premier HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302660
+#EXTINF:-1,HBO  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313095
+#EXTINF:-1,HBO 2  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313098
+#EXTINF:-1,HBO 2 FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313052
+#EXTINF:-1,HBO 2 SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34890
+#EXTINF:-1,HBO 2 HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302665
+#EXTINF:-1,HBO 2 FHD (MX E)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35288
+#EXTINF:-1,HBO 2 FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34888
+#EXTINF:-1,HBO Family SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313108
+#EXTINF:-1,HBO Family  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313051
+#EXTINF:-1,HBO Family FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312908
+#EXTINF:-1,HBO Family HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302667
+#EXTINF:-1,HBO FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313040
+#EXTINF:-1,HBO FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34883
+#EXTINF:-1,HBO HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302664
+#EXTINF:-1,HBO Mundi SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313096
+#EXTINF:-1,HBO Mundi SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312766
+#EXTINF:-1,HBO Mundi FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312764
+#EXTINF:-1,HBO Mundi HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302663
+#EXTINF:-1,HBO Plus SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313109
+#EXTINF:-1,HBO Plus SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34892
+#EXTINF:-1,HBO Plus FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34894
+#EXTINF:-1,HBO Plus FHD (MX E)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35290
+#EXTINF:-1,HBO Plus HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302668
+#EXTINF:-1,HBO POP  FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313058
+#EXTINF:-1,HBO POP FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312919
+#EXTINF:-1,HBO POP HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302669
+#EXTINF:-1,HBO SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34881
+#EXTINF:-1,HBO Signature  SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313097
+#EXTINF:-1,HBO Signature FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34901
+#EXTINF:-1,HBO Signature SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34899
+#EXTINF:-1,HBO Signature FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312907
+#EXTINF:-1,HBO Signature HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302670
+#EXTINF:-1,HBO Xtreme SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313116
+#EXTINF:-1,HBO Xtreme FHD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313053
+#EXTINF:-1,HBO Xtreme FHD (MX E)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35258
+#EXTINF:-1,HBO Xtreme HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302666
+#EXTINF:-1,Universal Cinema SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313124
+#EXTINF:-1,Universal Cinema SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34869
+#EXTINF:-1,Universal Cinema FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312948
+#EXTINF:-1,Universal Cinema FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34871
+#EXTINF:-1,Universal Cinema HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302740
+#EXTINF:-1,Universal Comedy SD (CL*)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313118
+#EXTINF:-1,Universal Comedy SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34854
+#EXTINF:-1,Universal Comedy FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34856
+#EXTINF:-1,Universal Comedy HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304508
+#EXTINF:-1,Universal Crime FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34853
+#EXTINF:-1,Universal Crime HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302741
+#EXTINF:-1,Universal Crime SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34851
+
+#EXTINF:-1,Universal Premiere FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312912
+#EXTINF:-1,Universal Premiere FHD (LAT)*
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312947
+#EXTINF:-1,Universal Premiere FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34875
+#EXTINF:-1,Universal Premiere Oeste SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312776
+#EXTINF:-1,Universal Premiere Oeste FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312774
+#EXTINF:-1,Universal Premiere SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34873
+#EXTINF:-1,Universal Reality SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34862
+#EXTINF:-1,Universal Reality FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34864
+#EXTINF:-1,Universal Reality HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302743
+#EXTINF:-1,Bandamax HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302616
+#EXTINF:-1,Concert Channel SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35022
+#EXTINF:-1,Concert Channel FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35023
+#EXTINF:-1,HTV SD (ARG)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35025
+#EXTINF:-1,MTV 00S SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35033
+#EXTINF:-1,MTV 00S FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35035
+#EXTINF:-1,MTV HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35015
+#EXTINF:-1,MTV HD (MX)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302703
+#EXTINF:-1,MTV FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35018
+#EXTINF:-1,MTV Hits SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35019
+#EXTINF:-1,MTV Live SD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35020
+#EXTINF:-1,MTV Live FHD (LAT)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35021
